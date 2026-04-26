@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⬛ Project Macrodata
+# Project Macrodata
 
 **An Air-Gapped Macrodata Refinement (MDR) Pipeline & Knowledge System**
 
